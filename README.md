@@ -1,6 +1,9 @@
 # ofxDeferredShading
 ![](./screenshot.gif)
 
+Forked from nama-gatsuo.
+
+
 Here is [demo](https://www.youtube.com/watch?v=xhm2CdpSpcI).
 
 ## Concept
